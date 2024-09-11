@@ -1,0 +1,1 @@
+alert( 'Gogogo now!'.match(/(go)+/ig) );
